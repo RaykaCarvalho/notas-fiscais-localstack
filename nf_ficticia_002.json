@@ -1,0 +1,11 @@
+{
+  "id": "NF-002-2025",
+  "cliente": "Mundo cor de",
+  "valor": 800.00,
+  "data": "2025-10-07",
+  "descricao": "Doceria",
+  "codigo_fiscal": {
+    "cfop": "5103",
+    "ncm": "85175231"
+  }
+}

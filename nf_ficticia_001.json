@@ -1,0 +1,11 @@
+{
+  "id": "NF-001-2025",
+  "cliente": "Empresa Fictícia S.A.",
+  "valor": 750.00,
+  "data": "2025-09-17",
+  "descricao": "Serviço de Consultoria em Cloud",
+  "codigo_fiscal": {
+    "cfop": "5102",
+    "ncm": "85171231"
+  }
+}
